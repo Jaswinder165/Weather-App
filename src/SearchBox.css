@@ -1,0 +1,26 @@
+
+.SearchBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#City {
+    width: 300px;
+}
+
+button.MuiButton-contained {
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 14px;
+}

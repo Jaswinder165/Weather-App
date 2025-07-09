@@ -1,0 +1,30 @@
+.InfoBox{
+    margin-top: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.InfoBox {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.card {
+    width: 100%;
+    max-width: 345px;
+}
+
+.cardContent {
+    padding: 16px;
+}
+
+Typography {
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+p {
+    margin: 5px 0;
+}
