@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Weather App**
 
 **This is a simple weather app built with React, Vite, and MUI (Material-UI).**
@@ -16,12 +17,15 @@
 
 6.CSS
 
-**Author :**
-
+Author:
 Jaswinder singh
+
 
 Email: js3331650@gmail.com@gmail.com
 
-**Link :**
+link:
 
-url : https://weather-app-vishal.netlify.app/
+
+=======
+# Weather-App
+>>>>>>> 0e76b642e732a1f234ab67dfe6a1be26c9be0e18
