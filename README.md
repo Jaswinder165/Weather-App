@@ -21,8 +21,7 @@ Author:
 Jaswinder singh
 
 
-Email: js3331650@gmail.com@gmail.com
-
+Email: js3331650@gmail.com
 link:
 
 
